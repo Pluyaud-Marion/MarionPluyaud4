@@ -1,3 +1,31 @@
+.col-xs-12 h2{
+    font-style: italic;
+}
+.col-sm-12 h2{
+    font-size: 18px;
+    color: black!important;
+    font-weight: bold;
+}
+.col-sm-12 p{
+    color:#FFFFFF!important;
+}
+#phrase{
+    color:#000000!important;
+}
+.col-sm-6 p{
+    font-size: 14px;
+    font-weight: bold;
+}
+.text-center p{
+    font-size: 14px;
+}
+.text-center{
+    font-size: 14px;
+}
+.icon-md{
+    color: #000000!important;
+}
+
 body {
     margin: 0;
     padding: 0;
@@ -654,12 +682,13 @@ a {
     color: #575757!important;
 }
 
+
 .container {
     max-width: 1000px;
 }
 
 .hero-bloc-text {
-    font-size: 38px;
+    font-size: 45px;
 }
 
 .hero-bloc-text-sub {
@@ -736,7 +765,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: #000000!important;
 }
 
 .portfolio-thumb {
@@ -771,21 +800,22 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #F4AC8A;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #FFFFFF!important;
+    font-weight: bold;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
-    color: #FFFFFF!important;
+    background: #F4AC8A;
+    color: #000000!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
-    color: #FFFFFF!important;
+    background: #F4AC8A!important;
+    color: #000000!important;
 }
 
 .ltc-white {
